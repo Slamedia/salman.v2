@@ -1,0 +1,4 @@
+[submodule "themes/personal-site"]
+	path = themes/personal-site
+	url = https://github.com/SlmnMEDIA/personal-site.git
+	branch = master

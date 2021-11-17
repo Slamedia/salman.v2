@@ -1,7 +1,7 @@
 baseURL                       = "https://salman.netlify.app/"
 languageCode                  = "id"
 title                         = "Circle Alir"
-theme                         = "modul-salmantgl"
+theme                         = "personal-site"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
